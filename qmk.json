@@ -2,6 +2,7 @@
     "userspace_version": "1.0",
     "build_targets": [
         ["bastardkb/charybdis/4x6", "vendor"],
-        ["bastardkb/charybdis/4x6", "my_keymap"]
+        ["bastardkb/charybdis/4x6", "qwerty_ctrl_mod"],
+        ["bastardkb/charybdis/4x6", "colemak_dh_ctrl_mod"]
     ]
 }
